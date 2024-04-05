@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.txt
+my-passwords.txt
+drafts/*
+
+sekret.md
